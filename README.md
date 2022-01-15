@@ -55,4 +55,4 @@
 ## 動作
 ・youtubeにて、その動作を確認できる動画を公開する
 
-・URL→
+・URL→https://youtu.be/NOSOB0cSlz8
